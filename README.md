@@ -14,7 +14,7 @@
 
 Тестировал в Windows 10/11.
 
-
+----------------------------------------------------------------------------------------------------------
 Instruction (EN)
 Purpose: basic functionality check for Wi‑Fi and Bluetooth M.2 adapters (no performance measurements).
 
@@ -30,4 +30,3 @@ Green Тестирование успешно! — Wi‑Fi and Bluetooth are OK.
 Red Тестирование неуспешно — at least one of them is not OK.
 
 Testing in Windows 10/11.
-
